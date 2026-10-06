@@ -1,0 +1,17 @@
+# Environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (re-downloadable, too large for git)
+Medical/
+MedNIST/
+*.tar.gz
+*.zip
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
